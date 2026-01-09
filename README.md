@@ -22,6 +22,7 @@ Matemática Financeira: Aplicação de conceitos de rentabilidade real e projeç
 
 📸 Demonstração
 
+![Dashboard do Projeto](dashboard.png.png)
 Legenda: Dashboard principal com simulador de cenários e alocação de ativos.
 
 📈 Minha Experiência
