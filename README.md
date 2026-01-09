@@ -35,6 +35,7 @@ Estruturar uma lógica de alocação de ativos baseada em perfis de risco.
 Organizar fluxos de trabalho que facilitam a tomada de decisão financeira.
 
 💡 Como usar este repositório
+
 Baixe o arquivo .xlsx disponível na pasta raiz.
 
 Insira seu salário e taxa de rendimento na aba de Configurações.
